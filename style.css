@@ -1,0 +1,137 @@
+.main{
+  border:2px solid pink;
+  padding:2%;
+  display:flex;
+  flex-direction:row;
+  
+}
+h2,h4{
+  color: red;
+}
+a{
+  word-wrap: break-word;
+}
+.left{
+  border:2px solid blue;
+  padding:2%;
+  margin:2%;
+  width:30%;
+
+}
+#name{
+  color: purple;
+  font-size: 30px;
+  text-align: center;
+}
+.table1{
+  width:90%;
+  overflow-x: auto;
+}
+.left img{
+  width:50%;
+  border-width: 50%;
+  border:2px solid green;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.right{
+  border:2px solid grey;
+  padding:2%;
+  margin:2%;
+  width:70%;
+
+}
+@media only screen and (min-width:0px) and (max-width:480px)
+{
+  .main{
+    border:2px solid pink;
+    padding:2%;
+    display:flex;
+    flex-direction:column;
+  }
+  h2,h4{
+    color: red;
+  }
+  a{
+    word-wrap: break-word;
+  }
+  .left{
+    border:2px solid blue;
+    padding:2%;
+    margin:2%;
+    width:90%;
+    background-color: skyblue;
+    }
+  #name{
+    color: purple;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table1{
+    width:90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width:50%;
+    border-width: 50%;
+    border:2px solid green;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right{
+    border:2px solid grey;
+    padding:2%;
+    margin:2%;
+    width:90%;
+    background-color: skyblue;
+  }
+}
+@media only screen and (min-width:481px) and (max-width:768px)
+{
+  .main{
+    border:2px solid pink;
+    padding:2%;
+    display:flex;
+    flex-direction:row;
+    width: 100%;
+  }
+  h2,h4{
+    color: red;
+  }
+  a{
+    word-wrap: break-word;
+  }
+  .left{
+    border:2px solid blue;
+    padding:2%;
+    margin:2%;
+    width:40%;
+    background-color: green;
+    }
+  #name{
+    color: purple;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table1{
+    width:90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width:50%;
+    border-width: 50%;
+    border:2px solid green;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right{
+    border:2px solid grey;
+    padding:2%;
+    margin:2%;
+    width:40%;
+    background-color: green;
+  }
+}

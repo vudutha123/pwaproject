@@ -1,0 +1,83 @@
+{"details":{
+  "image":"download.png",
+  "name":"Harshitha",
+  "phno":"364896397",
+  "email":"vuduthaharshitha0@gmail.com",
+  "Address":"MIC College of Technology,kanchikacharla"
+},
+"carrerobject":{
+  "info":"I Want To Place In Good Company"
+},
+"Educational":[{
+  "Qualification":"B.Tech",
+  "institute":"MIC College of Technology",
+  "yearofpass":"2016-2020",
+  "percentage":"75%"
+},
+{
+  "Qualification":"intemediate",
+  "institute":"sai siddharatha junior college",
+  "yearofpass":"2014-2016",
+  "percentage":"97%"
+},
+{
+  "Qualification":"school",
+  "institute":"vijaya rani high school",
+  "yearofpass":"2001-2014",
+  "percentage":"95%"
+}
+],
+"Skills":[{
+  "title":"programming languages",
+  "info":["C"]
+
+},
+{
+  "info":["C++"]
+},
+{
+  "info":["JAVA"]
+},
+{
+  "info":["PYTHON"]
+},
+{
+"title":"databases",
+"info":["oracle"]
+},
+{
+  "info":["mysql"]
+},
+{
+  "info":["sql"]
+},
+{
+  "title":"operating system",
+  "info":["linux"]
+},
+{
+  "info":["windows"]
+},
+{
+  "info":["mac"]
+}
+],
+"Acheivements":[{
+  "title":"prizes",
+  "info":["1st prize in ppt"]
+  },
+  {
+  "info":["2nd prize in debut"]
+},
+{
+  "info":["1st prize in techinal quiz"]
+},
+{
+  "title":"extra activities",
+  "info":["I sign up one intership in Machine Learning with python"]
+},
+{
+  "info":["I sign up 2 workshops"]
+}
+]
+}
